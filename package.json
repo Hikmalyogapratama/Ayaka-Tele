@@ -1,14 +1,14 @@
 {
-  "name": "ayaka-tele",
+  "name": "MereunBot",
   "version": "1.0.0",
-  "description": "Ayaka Always Choose Viki",
+  "description": "hehe",
   "main": "viki.js",
   "scripts": {
     "test": "node viki"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SazumiVicky/ayaka-tele.git"
+    "url": "git+https://github.com/hikmalyogapratama/ayaka-tele.git"
   },
   "keywords": [
     "ayaka",
@@ -19,10 +19,10 @@
     "ayakaai",
     "telegram"
   ],
-  "author": "Sazumi Viki",
+  "author": "Yoga",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SazumiVicky/ayaka-tele/issues"
+    "url": "https://github.com/hikmalyogapratama/ayaka-tele/issues"
   },
   "homepage": "https://github.com/SazumiVicky/ayaka-tele#readme",
   "dependencies": {
