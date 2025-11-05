@@ -1,4 +1,4 @@
-// code by sazumi viki
+// code by yoga
 const TelegramBot = require('node-telegram-bot-api');
 const fs = require('fs');
 
