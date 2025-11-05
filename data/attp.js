@@ -22,7 +22,7 @@ async function attpHandler(bot) {
 
   bot.onText(/^\/attp$/, (msg) => {
     const chatId = msg.chat.id;
-    bot.sendMessage(chatId, 'Masukan teks, contoh: /attp viki ganteng');
+    bot.sendMessage(chatId, 'Masukan teks, contoh: /attp yoga');
   });
 }
 
