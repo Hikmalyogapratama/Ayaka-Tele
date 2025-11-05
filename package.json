@@ -1,14 +1,14 @@
 {
-  "name": "ayaka-tele",
+  "name": "yoga",
   "version": "1.0.0",
-  "description": "Ayaka Always Choose Viki",
+  "description": "tes doang",
   "main": "viki.js",
   "scripts": {
     "test": "node viki"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SazumiVicky/ayaka-tele.git"
+    "url": "git+https://github.com/Hikmalyogapratama/ayaka-tele.git"
   },
   "keywords": [
     "ayaka",
@@ -22,9 +22,9 @@
   "author": "Sazumi Viki",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SazumiVicky/ayaka-tele/issues"
+    "url": "https://github.com/Hikmalyogapratama/ayaka-tele/issues"
   },
-  "homepage": "https://github.com/SazumiVicky/ayaka-tele#readme",
+  "homepage": "https://github.com/Hikmalyogapratma/ayaka-tele#readme",
   "dependencies": {
     "axios": "^1.3.6",
     "cheerio": "^1.0.0-rc.12",
