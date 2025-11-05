@@ -6,7 +6,7 @@ function handleArtiNamaCommand(bot) {
     const nama = match[1].trim();
     
     if (nama === '') {
-      bot.sendMessage(chatId, 'Masukan nama yang ingin Anda cek, Contoh: /artinama Viki');
+      bot.sendMessage(chatId, 'Masukan nama yang ingin Anda cek, Contoh: /artinama yoga');
       return;
     }
     
@@ -28,7 +28,7 @@ function handleArtiNamaCommand(bot) {
   });
 
   bot.onText(/^\/artinama$/, (msg) => {
-    bot.sendMessage(msg.chat.id, 'Masukan nama yang ingin Anda cek, Contoh: /artinama Viki');
+    bot.sendMessage(msg.chat.id, 'Masukan nama yang ingin Anda cek, Contoh: /artinama yoga');
   });
 }
 
